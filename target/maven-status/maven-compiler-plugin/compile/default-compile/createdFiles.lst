@@ -1,0 +1,8 @@
+icic\model\Usuario.class
+icic\interceptor\ValidaLogin.class
+icic\business\LoginService.class
+icic\controller\LoginAction.class
+icic\dao\UsuarioQueryHelper.class
+icic\exceptions\UsuarioNAutorizado.class
+icic\controller\BaseAction.class
+icic\controller\HelloAction.class
